@@ -1,0 +1,11 @@
+{
+  "name": "taskie-site",
+  "version": "1.0.0",
+  "description": "Personal website for Taskie Maybe",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Taskie Maybe",
+  "license": "MIT"
+}
